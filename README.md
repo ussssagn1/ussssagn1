@@ -7,7 +7,7 @@ i'm web developer
 A programmer with over a year of experience, currently studying at Zaporizhzhia National University of Radio Electronics ("NUZP") in the field of electronics. Proficient in fundamental web technologies such as HTML, CSS, and JavaScript, and has experience with preprocessors, including SCSS. Currently exploring Vue.js to enhance skills in web development.
 
 * 🌍  I'm based in Dnepr
-* 🖥️  See my portfolio at [portfolio](http://ussssagn1.github.io/Portfolio/)
+* 🖥️  See my portfolio at [portfolio](https://ussssagn1.github.io/PORTFOLIO-VUE/)
 * ✉️  You can contact me at [zaytsevdima031107@gmail.com](mailto:zaytsevdima031107@gmail.com)
 * 🧠  I'm learning Vue.js
 
